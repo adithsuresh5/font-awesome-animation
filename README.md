@@ -9,8 +9,8 @@ Download
 ----------------
 ### Manually
 The files can be downloaded from:
-* Minified [CSS](https://raw.githubusercontent.com/l-lin/font-awesome-animation/master/dist/font-awesome-animation.min.css) for production usage
-* Un-minified [CSS](https://raw.githubusercontent.com/l-lin/font-awesome-animation/master/dist/font-awesome-animation.css) for development
+* Minified [CSS](https://rawgit.com/adithsuresh5/font-awesome-animation/master/dist/font-awesome-animation.min.css) for production usage
+* Un-minified [CSS](https://rawgit.com/adithsuresh5/font-awesome-animation/master/dist/font-awesome-animation.css) for development
 
 ### With BowerJS
 ```
@@ -26,7 +26,7 @@ Include CSS file in your index.html file:
 
 Usage
 ================
-See [live demo](https://l-lin.github.com/font-awesome-animation).
+See [live demo](https://adithsuresh5.github.io/font-awesome-animation/).
 
 Development
 ================
