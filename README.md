@@ -1,4 +1,4 @@
-font-awesome-animation [![Build Status](https://travis-ci.org/l-lin/font-awesome-animation.png?branch=master)]
+font-awesome-animation
 ================
 > Simple animations using some CSS3 I found on the web.
 > Best used on glyphicons like [FontAwesome](http://fortawesome.github.io/Font-Awesome/).
